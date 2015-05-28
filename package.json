@@ -1,0 +1,29 @@
+{
+  "name": "node-comment-strip",
+  "description": "remove comment",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolbong",
+    "url": "https://github.com/coolbong"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "main": "strip.js",
+  "keywords": [
+    "comment",
+    "comments",
+    "regex",
+    "regexp",
+    "remove",
+    "strip"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bin": {
+    "cmtstrip": "strip.js"
+  }
+}
