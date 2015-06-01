@@ -1,5 +1,5 @@
 {
-  "name": "node-comment-strip",
+  "name": "node-cmtstrip",
   "description": "remove comment",
   "version": "1.0.0",
   "author": {
